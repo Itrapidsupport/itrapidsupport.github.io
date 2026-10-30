@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/3jitfmkr29jko.css","style"]
+:HL["/_next/static/chunks/1p_zgamjyuecr.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"living-properties","s":[]},"h":65632,"c":"$Q2"}]]
-0:{"b":"cWGTSkewnFSEpEMo7DGlw","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"NtXgpKvK9OH3UF2ZD_pF4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
