@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/0wsav10_vxupa.css","style"]
+:HL["/_next/static/chunks/271m72jqezpb0.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"urbantec-property-management","s":[]},"h":65632,"c":"$Q2"}]]
-0:{"b":"x5LBuUL28wC_EcVCWcdqx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"ol6VFsshqoGfM-UrsnJ-c","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
